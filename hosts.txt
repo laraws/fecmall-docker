@@ -1,0 +1,7 @@
+127.0.0.1       www.fecshoptest.com
+127.0.0.1       appadmin.fecshoptest.com
+127.0.0.1       img.fecshoptest.com
+127.0.0.1       m.fecshoptest.com
+127.0.0.1       appserver.fecshoptest.com
+127.0.0.1       appapi.fecshoptest.com
+127.0.0.1       appbdmin.fecshoptest.com
